@@ -39,19 +39,28 @@ Each extracted letter is analyzed by our custom-built **Convolutional Neural Net
 This project was developed by a team of 3 EPITA engineering students.
 
 <div align="center">
-  <a href="https://github.com/jessim-ziani">
-    <img src="https://github.com/jessim-ziani.png" width="60px" style="border-radius: 50%;" alt="Jessim Ziani"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="(https://github.com/Wael-beginner)">
-    <img src="https://github.com/Wael-beginner.png" width="60px" style="border-radius: 50%;" alt="Wael Akhdar"/>
-    <sub><b>Wael Akhdar</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/youcefzahra">
-    <img src="https://github.com/youcefzahra.png" width="60px" style="border-radius: 50%;" alt="Youcef Zahra"/>
-    <sub><b>Youcef Zahra</b></sub>
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/jessim-ziani">
+          <img src="https://github.com/jessim-ziani.png" width="60px" style="border-radius: 50%;" alt="Jessim Ziani"/><br />
+          <sub><b>Jessim Ziani</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Wael-beginner">
+          <img src="https://github.com/Wael-beginner.png" width="60px" style="border-radius: 50%;" alt="Wael Akhdar"/><br />
+          <sub><b>Wael Akhdar</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/youcefzahra">
+          <img src="https://github.com/youcefzahra.png" width="60px" style="border-radius: 50%;" alt="Youcef Zahra"/><br />
+          <sub><b>Youcef Zahra</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
