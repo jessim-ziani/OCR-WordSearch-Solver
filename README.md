@@ -45,10 +45,12 @@ This project was developed by a team of 3 EPITA engineering students.
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="(https://github.com/Wael-beginner)">
     <img src="https://github.com/Wael-beginner.png" width="60px" style="border-radius: 50%;" alt="Wael Akhdar"/>
+    <sub><b>Wael Akhdar</b></sub>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/youcefzahra">
     <img src="https://github.com/youcefzahra.png" width="60px" style="border-radius: 50%;" alt="Youcef Zahra"/>
+    <sub><b>Youcef Zahra</b></sub>
   </a>
 </div>
 
