@@ -33,5 +33,24 @@ Each extracted letter is analyzed by our custom-built **Convolutional Neural Net
   <img src="screenshots/reponse_lettre_image2_niveau_2.png" width="700">
 </div>
 
+
+## 👥 Contributors
+
+This project was developed by a team of 3 EPITA engineering students.
+
+<div align="center">
+  <a href="https://github.com/jessim-ziani">
+    <img src="https://github.com/jessim-ziani.png" width="60px" style="border-radius: 50%;" alt="Jessim Ziani"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/wael-akhdar">
+    <img src="https://github.com/wael-akhdar.png" width="60px" style="border-radius: 50%;" alt="Wael Akhdar"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/youcef-zahra">
+    <img src="https://github.com/youcef-zahra.png" width="60px" style="border-radius: 50%;" alt="Youcef Zahra"/>
+  </a>
+</div>
+
 ---
 **🛠️ Technologies:** C, GTK3, Make, Bash, Git.
