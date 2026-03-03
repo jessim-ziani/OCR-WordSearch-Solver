@@ -17,20 +17,20 @@ Nous avons développé une interface utilisateur complète en C/GTK3 permettant 
 ### 2. Prétraitement de l'Image (Filtres)
 L'image brute subit plusieurs transformations : passage en niveaux de gris, flou gaussien, binarisation d'Otsu et suppression du bruit pour faire ressortir l'encre noire.
 <div align="center">
-  <img src="screenshots/pretraitement_image1_niveau_1_avant.png" width="400">
-  <img src="screenshots/pretraitement_image1_niveau_1_apres.png" width="400">
+  <img src="screenshots/pretraitement_image2_niveau_2_avant.png" width="400">
+  <img src="screenshots/pretraitement_image2_niveau_2_apres.png" width="400">
 </div>
 
 ### 3. Segmentation (Composantes Connexes)
 Notre algorithme de détection isole la zone de la grille (encadrés verts) et extrait chaque lettre individuellement (encadrés rouges).
 <div align="center">
-  <img src="screenshots/detection_lettre_image1_niveau_1.png" width="700">
+  <img src="screenshots/detection_lettre_image2_niveau_2.png" width="700">
 </div>
 
 ### 4. Intelligence Artificielle & Algorithme de Résolution
 Chaque lettre extraite est analysée par notre **Réseau de Neurones Convolutif (CNN)** fait maison. Une fois la grille virtuelle recréée en mémoire, notre solveur scanne les 8 directions possibles, trouve les mots cachés, et les surligne directement sur l'image d'origine.
 <div align="center">
-  <img src="screenshots/reponse_lettre_image1_niveau_1.png" width="700">
+  <img src="screenshots/reponse_lettre_image2_niveau_2.png" width="700">
 </div>
 
 ---
