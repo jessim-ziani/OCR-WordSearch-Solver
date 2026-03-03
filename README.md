@@ -43,7 +43,7 @@ This project was developed by a team of 3 EPITA engineering students.
     <img src="https://github.com/jessim-ziani.png" width="60px" style="border-radius: 50%;" alt="Jessim Ziani"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Wael-beginner">
+  <a href="(https://github.com/Wael-beginner)">
     <img src="https://github.com/Wael-beginner.png" width="60px" style="border-radius: 50%;" alt="Wael Akhdar"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
