@@ -6,7 +6,12 @@
 
 **OCR Word Search Solver** is a second-year engineering project developed at EPITA. The objective was to build a complete Optical Character Recognition (OCR) software from scratch in C to automatically read and solve word search grids from images.
 
-**My Role:** As **Project Manager and Git Administrator**, I led a team of three developers. My primary technical responsibility was the entire mathematical design and C-implementation of the **Artificial Neural Network (ANN)** dedicated to character recognition.
+**My Role:**
+- Implemented image preprocessing pipeline to prepare raw images for OCR.
+- Extracted individual characters and arranged them into a grid matrix.
+- Developed the solver to find words from the list within the character matrix.
+- Highlighted the found words directly on the original image.
+- Collaborated with the AI developer by providing the processed matrices for neural network recognition.
 
 ## 🏗️ Technical Architecture & Features
 
@@ -59,7 +64,7 @@ This project was developed by a team of 3 EPITA engineering students.
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Wael-beginner">
+        <a href="https://github.com/Wael-Akhdar">
           <img src="https://github.com/Wael-Akhdar.png" width="60px" style="border-radius: 50%;" alt="Wael Akhdar"/><br />
           <sub><b>Wael Akhdar</b></sub>
         </a>
