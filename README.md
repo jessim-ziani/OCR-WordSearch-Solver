@@ -11,7 +11,7 @@
 - Extracted individual characters and arranged them into a grid matrix.
 - Developed the solver to find words from the list within the character matrix.
 - Highlighted the found words directly on the original image.
-- Collaborated with the AI developer by providing the processed matrices for neural network recognition.
+- Collaborated with the neural network developer by providing the processed matrices for neural network recognition.
 
 ## 🏗️ Technical Architecture & Features
 
