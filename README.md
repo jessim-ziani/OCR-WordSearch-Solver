@@ -49,7 +49,7 @@ This project was developed by a team of 3 EPITA engineering students.
       </td>
       <td align="center">
         <a href="https://github.com/Wael-beginner">
-          <img src="https://github.com/Wael-beginner.png" width="60px" style="border-radius: 50%;" alt="Wael Akhdar"/><br />
+          <img src="https://github.com/Wael-Akhdar.png" width="60px" style="border-radius: 50%;" alt="Wael Akhdar"/><br />
           <sub><b>Wael Akhdar</b></sub>
         </a>
       </td>
